@@ -1,0 +1,253 @@
+id,topic,tweet,sentiment
+1,Climate Change,The floods this year destroyed my hometown. We need urgent action.,sad
+2,Climate Change,Finally seeing more solar panels in my city gives me hope!,happy
+3,Climate Change,Rising sea levels scare me more than anything else.,fear
+4,Climate Change,Politicians keep ignoring climate science. I'm furious!,angry
+5,Climate Change,Not sure if these climate reports are exaggerated or real.,confusion
+6,Climate Change,Proud to join the march for climate justice today!,supportive
+7,Climate Change,Carbon taxes are just a scam to control people.,opposing
+8,Climate Change,Wildfires are getting worse every year. Heartbreaking.,sad
+9,Climate Change,Our community garden is thriving thanks to rainwater harvesting!,happy
+10,Climate Change,Melting glaciers are a ticking time bomb.,fear
+11,Climate Change,The government's inaction on climate change is unacceptable!,angry
+12,Climate Change,I don't understand how climate change works exactly.,confusion
+13,Climate Change,Switching to electric vehicles is the right move!,supportive
+14,Climate Change,"Climate change is just a political tool, not a real threat.",opposing
+15,Climate Change,Another drought this year. Crops are failing again.,sad
+16,Climate Change,Seeing kids plant trees today made me smile.,happy
+17,Climate Change,Hurricanes are becoming more intense. It's terrifying.,fear
+18,Climate Change,Corporations polluting rivers should be punished!,angry
+19,Climate Change,Confused about whether recycling actually helps.,confusion
+20,Climate Change,Joining a local clean-up drive this weekend!,supportive
+21,Climate Change,Global warming is a hoax pushed by elites.,opposing
+22,Climate Change,The coral reefs are dying. This is tragic.,sad
+23,Climate Change,Wind farms are beautiful and inspiring.,happy
+24,Climate Change,The Arctic ice is disappearing faster than predicted.,fear
+25,Climate Change,Leaders who deny climate change make me angry.,angry
+26,Climate Change,I’m unsure if climate change is caused by humans.,confusion
+27,Climate Change,Supporting renewable energy is the way forward.,supportive
+28,Climate Change,Climate change is just fearmongering.,opposing
+29,Climate Change,Another record-breaking heatwave this summer.,sad
+30,Climate Change,Solar energy is powering our school now!,happy
+31,Climate Change,The thought of mass extinction keeps me up at night.,fear
+32,Climate Change,Oil companies hiding climate data is criminal!,angry
+33,Climate Change,Not sure if planting trees really offsets emissions.,confusion
+34,Climate Change,Donating to climate research today!,supportive
+35,Climate Change,Climate change is a myth spread by scientists for funding.,opposing
+36,Climate Change,The drought has left our fields barren.,sad
+37,Climate Change,Rainwater harvesting has improved our water supply!,happy
+38,Climate Change,The rising temperatures are alarming.,fear
+39,Climate Change,Frustrated with slow climate policy changes.,angry
+40,Climate Change,I don't get how carbon credits work.,confusion
+41,Climate Change,Happy to see more electric buses in the city.,supportive
+42,Climate Change,Climate change is just a distraction from real issues.,opposing
+43,Climate Change,The wildfire smoke is unbearable.,sad
+44,Climate Change,Our rooftop solar panels are finally installed!,happy
+45,Climate Change,The melting permafrost is a huge threat.,fear
+46,Climate Change,Angry at industries dumping waste into oceans.,angry
+47,Climate Change,Confused about climate models and predictions.,confusion
+48,Climate Change,Supporting climate education in schools.,supportive
+49,Climate Change,Climate change is exaggerated by the media.,opposing
+50,Climate Change,The floods have displaced thousands of families.,sad
+51,Geopolitics,The refugee crisis is heartbreaking to watch.,sad
+52,Geopolitics,Peace talks between the nations bring hope.,happy
+53,Geopolitics,The threat of war is terrifying.,fear
+54,Geopolitics,Corruption in politics makes me furious.,angry
+55,Geopolitics,I don't understand the trade agreements fully.,confusion
+56,Geopolitics,Supporting diplomatic solutions over war.,supportive
+57,Geopolitics,Foreign aid is just a way to control smaller nations.,opposing
+58,Geopolitics,The destruction in conflict zones is tragic.,sad
+59,Geopolitics,Historic peace treaty signed today!,happy
+60,Geopolitics,Nuclear weapons scare me to death.,fear
+61,Geopolitics,Leaders ignoring human rights abuses is infuriating.,angry
+62,Geopolitics,Confused about the border dispute details.,confusion
+63,Geopolitics,Backing the UN's humanitarian mission.,supportive
+64,Geopolitics,Sanctions only hurt ordinary people.,opposing
+65,Geopolitics,The famine caused by war is devastating.,sad
+66,Geopolitics,Seeing nations unite for disaster relief is uplifting.,happy
+67,Geopolitics,The rise of extremism is frightening.,fear
+68,Geopolitics,Angry at the lack of accountability in global politics.,angry
+69,Geopolitics,Not sure why these alliances are shifting.,confusion
+70,Geopolitics,Supporting free press worldwide.,supportive
+71,Geopolitics,Foreign policy is just a game for the powerful.,opposing
+72,Geopolitics,The displacement of families is heartbreaking.,sad
+73,Geopolitics,International cooperation on climate is inspiring.,happy
+74,Geopolitics,The possibility of cyberwarfare is scary.,fear
+75,Geopolitics,Frustrated with leaders who ignore treaties.,angry
+76,Geopolitics,I don't get the purpose of these summits.,confusion
+77,Geopolitics,Backing peacekeeping forces in conflict zones.,supportive
+78,Geopolitics,Military interventions rarely solve problems.,opposing
+79,Geopolitics,The bombing of civilian areas is tragic.,sad
+80,Geopolitics,Diplomatic breakthroughs make me smile.,happy
+81,Geopolitics,The spread of nuclear tech is terrifying.,fear
+82,Geopolitics,Angry at propaganda spreading lies.,angry
+83,Geopolitics,Confused about the sanctions' impact.,confusion
+84,Geopolitics,Supporting refugee resettlement programs.,supportive
+85,Geopolitics,Foreign aid is wasted on corrupt governments.,opposing
+86,Geopolitics,The humanitarian crisis is unbearable.,sad
+87,Geopolitics,Global unity against terrorism is encouraging.,happy
+88,Geopolitics,The threat of biological warfare is alarming.,fear
+89,Geopolitics,Frustrated with endless political debates.,angry
+90,Geopolitics,Not sure how these conflicts even started.,confusion
+91,Geopolitics,Backing international law enforcement.,supportive
+92,Geopolitics,Peace talks are just for show.,opposing
+93,Geopolitics,The destruction of heritage sites is heartbreaking.,sad
+94,Geopolitics,Joint space missions bring hope for peace.,happy
+95,Geopolitics,The rise of authoritarian regimes is scary.,fear
+96,Geopolitics,Angry at leaders who silence dissent.,angry
+97,Geopolitics,Confused about the voting process in the UN.,confusion
+98,Geopolitics,Supporting global disarmament efforts.,supportive
+99,Geopolitics,Foreign policy is driven by greed.,opposing
+100,Geopolitics,The refugee camps are in terrible condition.,sad
+101,Unknown,love rcb,happy
+102,Unknown,Missed my flight and now stuck at the airport for 6 hours,angry
+103,Unknown,Missed my flight and now stuck at the airport for 6 hours,angry
+104,Unknown,i love my job,happy
+105,Unknown,i hate my job,angry
+106,Unknown,"Oh great, another Monday just what I needed",confusion
+107,carrer,Proud of you for chasing your dreams,supportive
+108,movies,The peace treaty brings hope for the region,happy
+109,movies,Our team’s victory parade was incredible,happy
+110,geopolitics,The new superhero film was absolutely amazing,happy
+111,general,The new superhero film was absolutely amazing,happy
+112,sports,I love how the community came together,happy
+113,movies,The peace treaty brings hope for the region,happy
+114,sports,The new superhero film was absolutely amazing,happy
+115,general,I love how the community came together,happy
+116,geopolitics,The new superhero film was absolutely amazing,happy
+117,movies,The peace treaty brings hope for the region,happy
+118,geopolitics,Our team’s victory parade was incredible,happy
+119,movies,Our team’s victory parade was incredible,happy
+120,movies,The peace treaty brings hope for the region,happy
+121,geopolitics,The new superhero film was absolutely amazing,happy
+122,general,Our team’s victory parade was incredible,happy
+123,sports,The new sanctions will hurt the economy badly,sad
+124,sports,It’s heartbreaking to see this happen,sad
+125,general,It’s heartbreaking to see this happen,sad
+126,geopolitics,It’s heartbreaking to see this happen,sad
+127,movies,It’s heartbreaking to see this happen,sad
+128,geopolitics,It’s heartbreaking to see this happen,sad
+129,geopolitics,"We lost the finals again, so disappointing",sad
+130,general,"We lost the finals again, so disappointing",sad
+131,geopolitics,"We lost the finals again, so disappointing",sad
+132,general,The ending of that drama made me cry,sad
+133,sports,It’s heartbreaking to see this happen,sad
+134,movies,The new sanctions will hurt the economy badly,sad
+135,sports,The new sanctions will hurt the economy badly,sad
+136,sports,It’s heartbreaking to see this happen,sad
+137,geopolitics,The new sanctions will hurt the economy badly,sad
+138,movies,I’m scared about the rising tensions,fear
+139,general,The horror trailer gave me chills,fear
+140,general,I’m scared about the rising tensions,fear
+141,sports,I’m scared about the rising tensions,fear
+142,geopolitics,The horror trailer gave me chills,fear
+143,geopolitics,The player’s injury is worrying,fear
+144,geopolitics,The horror trailer gave me chills,fear
+145,movies,I’m scared about the rising tensions,fear
+146,sports,I’m scared about the rising tensions,fear
+147,sports,The horror trailer gave me chills,fear
+148,geopolitics,I’m scared about the rising tensions,fear
+149,geopolitics,The player’s injury is worrying,fear
+150,geopolitics,I’m scared about the rising tensions,fear
+151,general,The sudden military drills are frightening,fear
+152,geopolitics,The horror trailer gave me chills,fear
+153,geopolitics,The sudden military drills are frightening,fear
+154,geopolitics,I’m scared about the rising tensions,fear
+155,geopolitics,I’m angry about the unfair treatment,angry
+156,sports,The referee’s decision was outrageous,angry
+157,movies,The referee’s decision was outrageous,angry
+158,movies,The referee’s decision was outrageous,angry
+159,movies,That remake ruined the original classic,angry
+160,geopolitics,I’m angry about the unfair treatment,angry
+161,sports,I’m angry about the unfair treatment,angry
+162,general,That remake ruined the original classic,angry
+163,general,I’m angry about the unfair treatment,angry
+164,geopolitics,The referee’s decision was outrageous,angry
+165,movies,That speech by the minister made me furious,angry
+166,movies,I’m angry about the unfair treatment,angry
+167,general,That remake ruined the original classic,angry
+168,movies,That remake ruined the original classic,angry
+169,movies,This situation makes no sense to me,confusion
+170,sports,This situation makes no sense to me,confusion
+171,movies,I’m confused about the new border agreement,confusion
+172,geopolitics,This situation makes no sense to me,confusion
+173,movies,I’m not sure what the plot was about,confusion
+174,geopolitics,I’m not sure what the plot was about,confusion
+175,movies,I don’t understand the new rules,confusion
+176,sports,I’m confused about the new border agreement,confusion
+177,sports,I’m not sure what the plot was about,confusion
+178,geopolitics,I’m confused about the new border agreement,confusion
+179,geopolitics,I’m confused about the new border agreement,confusion
+180,general,I’m confused about the new border agreement,confusion
+181,sports,I’m confused about the new border agreement,confusion
+182,geopolitics,I don’t understand the new rules,confusion
+183,general,This situation makes no sense to me,confusion
+184,general,This situation makes no sense to me,confusion
+185,general,I support more indie films getting recognition,supportive
+186,general,I fully support the climate accord,supportive
+187,movies,I support the coach’s decision,supportive
+188,geopolitics,I stand with the people affected,supportive
+189,sports,I support the coach’s decision,supportive
+190,general,I fully support the climate accord,supportive
+191,movies,I support more indie films getting recognition,supportive
+192,sports,I fully support the climate accord,supportive
+193,movies,I stand with the people affected,supportive
+194,general,I support the coach’s decision,supportive
+195,sports,I support more indie films getting recognition,supportive
+196,geopolitics,I fully support the climate accord,supportive
+197,geopolitics,I stand with the people affected,supportive
+198,geopolitics,I support more indie films getting recognition,supportive
+199,movies,I support the coach’s decision,supportive
+200,movies,I stand with the people affected,supportive
+201,sports,I oppose the new tournament format,opposing
+202,general,I oppose the casting choice for the lead role,opposing
+203,general,I strongly oppose the trade restrictions,opposing
+204,geopolitics,I strongly oppose the trade restrictions,opposing
+205,movies,I oppose the casting choice for the lead role,opposing
+206,general,I oppose the casting choice for the lead role,opposing
+207,general,I oppose the casting choice for the lead role,opposing
+208,sports,I strongly oppose the trade restrictions,opposing
+209,geopolitics,I oppose the casting choice for the lead role,opposing
+210,geopolitics,I oppose the casting choice for the lead role,opposing
+211,geopolitics,I’m against this policy change,opposing
+212,geopolitics,I oppose the casting choice for the lead role,opposing
+213,sports,I strongly oppose the trade restrictions,opposing
+214,general,I strongly oppose the trade restrictions,opposing
+215,general,I oppose the casting choice for the lead role,opposing
+216,geopolitics,I’m against this policy change,opposing
+217,sports,I oppose the casting choice for the lead role,opposing
+218,movies,blue chair runs softly,irrelevant
+219,movies,asdfghjkl zxcvbnm qwerty,irrelevant
+220,general,asdfghjkl zxcvbnm qwerty,irrelevant
+221,sports,blue chair runs softly,irrelevant
+222,geopolitics,win free iPhone now!!!,irrelevant
+223,movies,lorem ipsum dolor sit amet,irrelevant
+224,geopolitics,lorem ipsum dolor sit amet,irrelevant
+225,geopolitics,blue chair runs softly,irrelevant
+226,movies,;lkjhgfdsa qwertyuiop,irrelevant
+227,sports,;lkjhgfdsa qwertyuiop,irrelevant
+228,movies,win free iPhone now!!!,irrelevant
+229,geopolitics,1234567890 abcdefghijkl,irrelevant
+230,general,blue chair runs softly,irrelevant
+231,movies,1234567890 abcdefghijkl,irrelevant
+232,sports,win free iPhone now!!!,irrelevant
+233,sports,win free iPhone now!!!,irrelevant
+234,geopolitics,1234567890 abcdefghijkl,irrelevant
+235,movies,buy followers cheap $$$ click here,irrelevant
+236,geopolitics,asdfghjkl zxcvbnm qwerty,irrelevant
+237,movies,buy followers cheap $$$ click here,irrelevant
+238,geopolitics,asdfghjkl zxcvbnm qwerty,irrelevant
+239,geopolitics,blue chair runs softly,irrelevant
+240,movies,random words without meaning,irrelevant
+241,general,lorem ipsum dolor sit amet,irrelevant
+242,movies,asdfghjkl zxcvbnm qwerty,irrelevant
+243,sports,asdfghjkl zxcvbnm qwerty,irrelevant
+244,sports,lorem ipsum dolor sit amet,irrelevant
+245,geopolitics,buy followers cheap $$$ click here,irrelevant
+246,sports,random words without meaning,irrelevant
+247,geopolitics,blue chair runs softly,irrelevant
+248,general,win free iPhone now!!!,irrelevant
+249,carrer,i love my job,happy
+250,Unknown,urrrefbjse jgesfuk,irrelevant
+251,Unknown,i love my job,happy
+252,Unknown,i love my job,happy
